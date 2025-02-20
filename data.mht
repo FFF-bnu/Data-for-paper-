@@ -1,0 +1,2721 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01DB83AB.F60DFE00"
+
+此文档为“单个文件网页”，也称为“Web 档案”文件。如果您看到此消息，但是您的浏览器或编辑器不支持“Web 档案”文件。请下载支持“Web 档案”的浏览器。
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"data.files/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"data.files/sheet001.htm">
+<link id=3D"shLink" href=3D"data.files/sheet002.htm">
+<link id=3D"shLink" href=3D"data.files/sheet003.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D3;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "ENV";
+ c_rgszSh[1] =3D "SPE";
+ c_rgszSh[2] =3D "DIV";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[2].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt 宋体;padding-le=
+ft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>ENV</x:Name>
+    <x:WorksheetSource HRef=3D"data.files/sheet001.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>SPE</x:Name>
+    <x:WorksheetSource HRef=3D"data.files/sheet002.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>DIV</x:Name>
+    <x:WorksheetSource HRef=3D"data.files/sheet003.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"data.files/stylesheet.css"/>
+  <x:WindowHeight>15720</x:WindowHeight>
+  <x:WindowWidth>29040</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ActiveSheet>2</x:ActiveSheet>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"data.files/sheet003.htm" name=3D"frSheet">
+ <frame src=3D"data.files/tabstrip.htm" name=3D"frTabs" marginwidth=3D0 mar=
+ginheight=3D0>
+ <noframes>
+  <body>
+   <p>此页面使用了框架，而您的浏览器不支持框架。</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="gb2312"
+
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+ruby
+	{ruby-align:left;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+.font7
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;}
+.xl67
+	{mso-style-parent:style0;
+	mso-number-format:"0\.0000";
+	text-align:center;
+	vertical-align:middle;}
+.xl68
+	{mso-style-parent:style0;
+	mso-number-format:"0\.0";
+	text-align:center;
+	vertical-align:middle;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;}
+.xl70
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;
+	vertical-align:middle;}
+.xl71
+	{mso-style-parent:style0;
+	vertical-align:middle;}
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../data.htm">
+<![if IE]>
+<base href=3D"file:///C:/268392E1/data.files/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">ENV</font></a=
+>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet002.=
+htm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">SPE</font></a=
+>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet003.=
+htm" target=3D"frSheet"><font face=3D"宋体" color=3D"#000000">DIV</font></a=
+>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../data.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/268392E1/data.files/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../data.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D1080 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:810pt'>
+ <col width=3D72 span=3D15 style=3D'width:54pt'>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl65 width=3D72 style=3D'height:14.25pt;width:54p=
+t'>sample</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>As</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>Ca</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>Mg</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>Pb</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>NH4-N</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>NO3-N</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>TP</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>TN</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>Chl.a</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>CODMn</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>WD</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>WF</td>
+  <td class=3Dxl65 width=3D72 style=3D'width:54pt'>IOS</td>
+  <td class=3Dxl66 width=3D72 style=3D'width:54pt'>V</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y1</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>46.2058</td>
+  <td class=3Dxl67>9.8800</td>
+  <td class=3Dxl67>0.0072</td>
+  <td class=3Dxl67>1.4630</td>
+  <td class=3Dxl67>0.2651</td>
+  <td class=3Dxl67>0.6133</td>
+  <td class=3Dxl67>0.5342</td>
+  <td class=3Dxl67>10.1131</td>
+  <td class=3Dxl67>4.2166</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>0.8</td>
+  <td class=3Dxl69>6.00</td>
+  <td class=3Dxl70>0.18</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y2</td>
+  <td class=3Dxl67>0.0002</td>
+  <td class=3Dxl66>26.2769</td>
+  <td class=3Dxl67>5.4769</td>
+  <td class=3Dxl67>0.0008</td>
+  <td class=3Dxl67>1.0337</td>
+  <td class=3Dxl67>0.3358</td>
+  <td class=3Dxl67>1.5499</td>
+  <td class=3Dxl67>0.5276</td>
+  <td class=3Dxl67>129.6357</td>
+  <td class=3Dxl67>4.3926</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>2.72</td>
+  <td class=3Dxl70>0.36</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y3</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>39.0703</td>
+  <td class=3Dxl67>8.5508</td>
+  <td class=3Dxl67>0.0161</td>
+  <td class=3Dxl67>0.6034</td>
+  <td class=3Dxl67>0.3681</td>
+  <td class=3Dxl67>0.3597</td>
+  <td class=3Dxl67>0.7676</td>
+  <td class=3Dxl67>23.0347</td>
+  <td class=3Dxl67>3.2749</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl69>6.35</td>
+  <td class=3Dxl70>0.84</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y4</td>
+  <td class=3Dxl67>0.0085</td>
+  <td class=3Dxl66>37.3739</td>
+  <td class=3Dxl67>9.5091</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>1.0539</td>
+  <td class=3Dxl67>1.0570</td>
+  <td class=3Dxl67>0.3499</td>
+  <td class=3Dxl67>1.5787</td>
+  <td class=3Dxl67>28.1685</td>
+  <td class=3Dxl67>5.3902</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>7.50</td>
+  <td class=3Dxl70>0.47</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y5</td>
+  <td class=3Dxl67>0.0088</td>
+  <td class=3Dxl66>52.7028</td>
+  <td class=3Dxl67>13.0511</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>2.0317</td>
+  <td class=3Dxl67>1.5741</td>
+  <td class=3Dxl67>1.1011</td>
+  <td class=3Dxl67>1.0364</td>
+  <td class=3Dxl67>15.7584</td>
+  <td class=3Dxl67>5.7869</td>
+  <td class=3Dxl68>0.6</td>
+  <td class=3Dxl68>0.2</td>
+  <td class=3Dxl69>6.20</td>
+  <td class=3Dxl70>0.38</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y6</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>43.5639</td>
+  <td class=3Dxl67>11.0431</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>1.3085</td>
+  <td class=3Dxl67>1.0024</td>
+  <td class=3Dxl67>0.5613</td>
+  <td class=3Dxl67>0.8364</td>
+  <td class=3Dxl67>12.3584</td>
+  <td class=3Dxl67>4.4988</td>
+  <td class=3Dxl68>2.5</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl69>5.90</td>
+  <td class=3Dxl70>0.19</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y7</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>33.1386</td>
+  <td class=3Dxl67>7.8956</td>
+  <td class=3Dxl67>0.0011</td>
+  <td class=3Dxl67>0.8156</td>
+  <td class=3Dxl67>0.9337</td>
+  <td class=3Dxl67>0.9841</td>
+  <td class=3Dxl67>1.1920</td>
+  <td class=3Dxl67>43.2181</td>
+  <td class=3Dxl67>1.4486</td>
+  <td class=3Dxl68>0.8</td>
+  <td class=3Dxl68>1.5</td>
+  <td class=3Dxl69>5.10</td>
+  <td class=3Dxl70>0.11</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y8</td>
+  <td class=3Dxl67>0.0062</td>
+  <td class=3Dxl66>58.3193</td>
+  <td class=3Dxl67>16.6388</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>2.0560</td>
+  <td class=3Dxl67>0.7701</td>
+  <td class=3Dxl67>0.1158</td>
+  <td class=3Dxl67>0.7431</td>
+  <td class=3Dxl67>10.5936</td>
+  <td class=3Dxl67>1.0162</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>1.5</td>
+  <td class=3Dxl69>6.95</td>
+  <td class=3Dxl70>0.54</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y9</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>60.6733</td>
+  <td class=3Dxl67>23.7080</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>1.5408</td>
+  <td class=3Dxl67>1.2044</td>
+  <td class=3Dxl67>0.3076</td>
+  <td class=3Dxl67>1.0053</td>
+  <td class=3Dxl67>5.0485</td>
+  <td class=3Dxl67>0.7000</td>
+  <td class=3Dxl68>0.3</td>
+  <td class=3Dxl68>0.8</td>
+  <td class=3Dxl69>2.53</td>
+  <td class=3Dxl70>0.68</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>Y10</td>
+  <td class=3Dxl67>0.0104</td>
+  <td class=3Dxl66>38.3734</td>
+  <td class=3Dxl67>11.3701</td>
+  <td class=3Dxl67>0.0088</td>
+  <td class=3Dxl67>0.4196</td>
+  <td class=3Dxl67>0.4651</td>
+  <td class=3Dxl67>0.0670</td>
+  <td class=3Dxl67>0.5098</td>
+  <td class=3Dxl67>9.6549</td>
+  <td class=3Dxl67>1.2135</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>1.0</td>
+  <td class=3Dxl69>4.00</td>
+  <td class=3Dxl70>1.10</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P1</td>
+  <td class=3Dxl67>0.0096</td>
+  <td class=3Dxl66>43.4283</td>
+  <td class=3Dxl67>12.3574</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.1489</td>
+  <td class=3Dxl67>1.4347</td>
+  <td class=3Dxl67>0.0605</td>
+  <td class=3Dxl67>0.4609</td>
+  <td class=3Dxl67>10.0699</td>
+  <td class=3Dxl67>1.5270</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>8.00</td>
+  <td class=3Dxl70>2.99</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P2</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>48.5623</td>
+  <td class=3Dxl67>11.1098</td>
+  <td class=3Dxl67>0.0080</td>
+  <td class=3Dxl67>0.2640</td>
+  <td class=3Dxl67>0.9600</td>
+  <td class=3Dxl67>0.0735</td>
+  <td class=3Dxl67>0.7964</td>
+  <td class=3Dxl67>9.9456</td>
+  <td class=3Dxl67>1.4432</td>
+  <td class=3Dxl68>0.6</td>
+  <td class=3Dxl68>1.0</td>
+  <td class=3Dxl69>4.86</td>
+  <td class=3Dxl70>1.40</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P3</td>
+  <td class=3Dxl67>0.0073</td>
+  <td class=3Dxl66>38.4009</td>
+  <td class=3Dxl67>10.3942</td>
+  <td class=3Dxl67>0.0066</td>
+  <td class=3Dxl67>0.3246</td>
+  <td class=3Dxl67>0.9580</td>
+  <td class=3Dxl67>0.1548</td>
+  <td class=3Dxl67>0.7098</td>
+  <td class=3Dxl67>6.4576</td>
+  <td class=3Dxl67>1.3000</td>
+  <td class=3Dxl68>1.2</td>
+  <td class=3Dxl68>1.8</td>
+  <td class=3Dxl69>2.20</td>
+  <td class=3Dxl70>0.08</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P4</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>89.1122</td>
+  <td class=3Dxl67>10.9848</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>1.3206</td>
+  <td class=3Dxl67>1.4024</td>
+  <td class=3Dxl67>0.0767</td>
+  <td class=3Dxl67>2.2520</td>
+  <td class=3Dxl67>0.9883</td>
+  <td class=3Dxl67>1.6459</td>
+  <td class=3Dxl68>1.6</td>
+  <td class=3Dxl68>2.5</td>
+  <td class=3Dxl69>3.15</td>
+  <td class=3Dxl70>2.21</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P5</td>
+  <td class=3Dxl67>0.0137</td>
+  <td class=3Dxl66>76.5463</td>
+  <td class=3Dxl67>10.9279</td>
+  <td class=3Dxl67>0.0013</td>
+  <td class=3Dxl67>0.7489</td>
+  <td class=3Dxl67>1.0024</td>
+  <td class=3Dxl67>0.1125</td>
+  <td class=3Dxl67>2.5364</td>
+  <td class=3Dxl67>0.9883</td>
+  <td class=3Dxl67>1.4946</td>
+  <td class=3Dxl68>1.2</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>4.69</td>
+  <td class=3Dxl70>2.03</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P6</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>50.4284</td>
+  <td class=3Dxl67>7.8737</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.5246</td>
+  <td class=3Dxl67>0.4651</td>
+  <td class=3Dxl67>0.0377</td>
+  <td class=3Dxl67>1.0653</td>
+  <td class=3Dxl67>0.9883</td>
+  <td class=3Dxl67>1.1986</td>
+  <td class=3Dxl68>1.2</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl69>2.64</td>
+  <td class=3Dxl70>0.40</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P7</td>
+  <td class=3Dxl67>0.0008</td>
+  <td class=3Dxl66>43.8411</td>
+  <td class=3Dxl67>5.3835</td>
+  <td class=3Dxl67>0.0030</td>
+  <td class=3Dxl67>0.4075</td>
+  <td class=3Dxl67>0.6469</td>
+  <td class=3Dxl67>0.0963</td>
+  <td class=3Dxl67>1.3764</td>
+  <td class=3Dxl67>6.8528</td>
+  <td class=3Dxl67>1.4270</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl68>1.0</td>
+  <td class=3Dxl69>5.47</td>
+  <td class=3Dxl70>0.66</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P8</td>
+  <td class=3Dxl67>0.0119</td>
+  <td class=3Dxl66>83.5409</td>
+  <td class=3Dxl67>11.6735</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.8640</td>
+  <td class=3Dxl67>0.6913</td>
+  <td class=3Dxl67>0.0995</td>
+  <td class=3Dxl67>1.6653</td>
+  <td class=3Dxl67>2.8896</td>
+  <td class=3Dxl67>2.5514</td>
+  <td class=3Dxl68>0.3</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>3.41</td>
+  <td class=3Dxl70>2.09</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>P9</td>
+  <td class=3Dxl67>0.0050</td>
+  <td class=3Dxl66>74.84</td>
+  <td class=3Dxl67>7.9143</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.7994</td>
+  <td class=3Dxl67>0.2711</td>
+  <td class=3Dxl67>0.0735</td>
+  <td class=3Dxl67>1.2787</td>
+  <td class=3Dxl67>3.7925</td>
+  <td class=3Dxl67>2.1946</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl68>2.5</td>
+  <td class=3Dxl69>5.25</td>
+  <td class=3Dxl70>2.93</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L1</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>31.4072</td>
+  <td class=3Dxl67>5.5300</td>
+  <td class=3Dxl67>0.0013</td>
+  <td class=3Dxl67>0.4600</td>
+  <td class=3Dxl67>0.2428</td>
+  <td class=3Dxl67>0.2621</td>
+  <td class=3Dxl67>0.7987</td>
+  <td class=3Dxl67>21.8800</td>
+  <td class=3Dxl67>1.6200</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>1.5</td>
+  <td class=3Dxl69>4.55</td>
+  <td class=3Dxl70>0.77</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L2</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>41.2154</td>
+  <td class=3Dxl67>24.8714</td>
+  <td class=3Dxl67>0.0002</td>
+  <td class=3Dxl67>0.3307</td>
+  <td class=3Dxl67>0.6448</td>
+  <td class=3Dxl67>0.1743</td>
+  <td class=3Dxl67>1.4009</td>
+  <td class=3Dxl67>9.0304</td>
+  <td class=3Dxl67>2.3075</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl68>1.7</td>
+  <td class=3Dxl69>3.52</td>
+  <td class=3Dxl70>0.30</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L3</td>
+  <td class=3Dxl67>0.0226</td>
+  <td class=3Dxl66>27.9782</td>
+  <td class=3Dxl67>7.0565</td>
+  <td class=3Dxl67>0.0031</td>
+  <td class=3Dxl67>0.1469</td>
+  <td class=3Dxl67>0.3095</td>
+  <td class=3Dxl67>0.0637</td>
+  <td class=3Dxl67>0.9653</td>
+  <td class=3Dxl67>4.4683</td>
+  <td class=3Dxl67>1.7675</td>
+  <td class=3Dxl68>1.8</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>4.87</td>
+  <td class=3Dxl70>0.08</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L4</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>53.83</td>
+  <td class=3Dxl67>10.7041</td>
+  <td class=3Dxl67>0.0070</td>
+  <td class=3Dxl67>0.8398</td>
+  <td class=3Dxl67>0.5519</td>
+  <td class=3Dxl67>0.1028</td>
+  <td class=3Dxl67>1.1187</td>
+  <td class=3Dxl67>5.3579</td>
+  <td class=3Dxl67>2.1495</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>0.5</td>
+  <td class=3Dxl69>3.80</td>
+  <td class=3Dxl70>0.55</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L5</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>31.5362</td>
+  <td class=3Dxl67>6.2734</td>
+  <td class=3Dxl67>0.0014</td>
+  <td class=3Dxl67>0.4216</td>
+  <td class=3Dxl67>0.3701</td>
+  <td class=3Dxl67>0.1743</td>
+  <td class=3Dxl67>0.9476</td>
+  <td class=3Dxl67>43.6747</td>
+  <td class=3Dxl67>2.5051</td>
+  <td class=3Dxl68>1.8</td>
+  <td class=3Dxl68>0.8</td>
+  <td class=3Dxl69>4.30</td>
+  <td class=3Dxl70>0.21</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L6</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>47.8798</td>
+  <td class=3Dxl67>9.5019</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.5368</td>
+  <td class=3Dxl67>0.6913</td>
+  <td class=3Dxl67>0.2068</td>
+  <td class=3Dxl67>1.2831</td>
+  <td class=3Dxl67>5.0320</td>
+  <td class=3Dxl67>1.4514</td>
+  <td class=3Dxl68>0.3</td>
+  <td class=3Dxl68>0.8</td>
+  <td class=3Dxl69>5.00</td>
+  <td class=3Dxl70>0.35</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L7</td>
+  <td class=3Dxl67>0.0001</td>
+  <td class=3Dxl66>30.2337</td>
+  <td class=3Dxl67>6.3947</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.2277</td>
+  <td class=3Dxl67>0.4267</td>
+  <td class=3Dxl67>0.2849</td>
+  <td class=3Dxl67>0.8142</td>
+  <td class=3Dxl67>8.7317</td>
+  <td class=3Dxl67>2.9819</td>
+  <td class=3Dxl68>1.0</td>
+  <td class=3Dxl68>1.1</td>
+  <td class=3Dxl69>5.35</td>
+  <td class=3Dxl70>0.09</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L8</td>
+  <td class=3Dxl67>0.0150</td>
+  <td class=3Dxl66>29.4814</td>
+  <td class=3Dxl67>4.8402</td>
+  <td class=3Dxl67>0.0126</td>
+  <td class=3Dxl67>0.2378</td>
+  <td class=3Dxl67>0.6509</td>
+  <td class=3Dxl67>0.2198</td>
+  <td class=3Dxl67>0.8076</td>
+  <td class=3Dxl67>20.0928</td>
+  <td class=3Dxl67>3.3902</td>
+  <td class=3Dxl68>2.7</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl69>7.30</td>
+  <td class=3Dxl70>0.60</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L9</td>
+  <td class=3Dxl67>0.0011</td>
+  <td class=3Dxl66>33.3179</td>
+  <td class=3Dxl67>3.7535</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.1974</td>
+  <td class=3Dxl67>0.2691</td>
+  <td class=3Dxl67>0.1255</td>
+  <td class=3Dxl67>0.5787</td>
+  <td class=3Dxl67>5.0955</td>
+  <td class=3Dxl67>2.4630</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl68>0.3</td>
+  <td class=3Dxl69>6.60</td>
+  <td class=3Dxl70>0.59</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl66 style=3D'height:14.25pt'>L10</td>
+  <td class=3Dxl67>0.0023</td>
+  <td class=3Dxl66>29.2615</td>
+  <td class=3Dxl67>4.7272</td>
+  <td class=3Dxl67>0.0000</td>
+  <td class=3Dxl67>0.2216</td>
+  <td class=3Dxl67>0.5863</td>
+  <td class=3Dxl67>0.1190</td>
+  <td class=3Dxl67>2.4987</td>
+  <td class=3Dxl67>16.9392</td>
+  <td class=3Dxl67>4.4491</td>
+  <td class=3Dxl68>2.0</td>
+  <td class=3Dxl68>0.4</td>
+  <td class=3Dxl69>1.50</td>
+  <td class=3Dxl70>0.10</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../data.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/268392E1/data.files/sheet002.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../data.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D2592 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:1944pt'>
+ <col width=3D72 span=3D36 style=3D'width:54pt'>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 width=3D72 style=3D'height:14.25pt;width:54pt'>sample</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Navicula<ruby><font clas=
+s=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Gomphon<span style=3D'di=
+splay:none'>ema</span><ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Pinnularia<ruby><font cl=
+ass=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Cocconeis<ruby><font cla=
+ss=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Fragilaria<ruby><font cl=
+ass=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Oscillatoria<ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Anabaena<ruby><font clas=
+s=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Pseudana<span style=3D'd=
+isplay:none'>baena</span><ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Cymbella<ruby><font clas=
+s=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Coscinodis<span style=3D=
+'display:
+  none'>cus</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Cosmariu<span style=3D'd=
+isplay:none'>m</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Crucigenia</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Stauroneis</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Synedra<ruby><font class=
+=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Homoeoth<span style=3D'd=
+isplay:none'>rix</span><ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Euglena<ruby><font class=
+=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Nitzschia</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Diatoma</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Oedogoni<span style=3D'd=
+isplay:none'>um</span><ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Gyrosigma</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Lyngbya</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Cymatople<span style=3D'=
+display:
+  none'>ura</span><ruby><font class=3D"font7"><rt class=3Dfont7></rt></font=
+></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Achnanthe<span style=3D'=
+display:
+  none'>s</span><ruby><font class=3D"font7"><rt class=3Dfont7></rt></font><=
+/ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Aphanizo<span style=3D'd=
+isplay:none'>menon</span><ruby><font
+  class=3D"font7"><rt class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Monoraph<span style=3D'd=
+isplay:none'>idium</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Diploneis</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Ulothrix</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Amphipleu<span style=3D'=
+display:
+  none'>ra</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Cyclotella<ruby><font cl=
+ass=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Scenedes<span style=3D'd=
+isplay:none'>mus</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Eunotia</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Melosira<ruby><font clas=
+s=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Chlamydo<span style=3D'd=
+isplay:none'>monas</span></td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Epithemia</td>
+  <td class=3Dxl71 width=3D72 style=3D'width:54pt'>Neidium<ruby><font class=
+=3D"font7"><rt
+  class=3Dfont7></rt></font></ruby></td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y1</td>
+  <td align=3Dright>0.071</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.333</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.133</td>
+  <td align=3Dright>0.065</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.027</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.101</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.201</td>
+  <td align=3Dright>1.012</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.111</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y2</td>
+  <td align=3Dright>3.031</td>
+  <td align=3Dright>0.414</td>
+  <td align=3Dright>9.121</td>
+  <td align=3Dright>0.621</td>
+  <td align=3Dright>0.874</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.121</td>
+  <td align=3Dright>0.085</td>
+  <td align=3Dright>0.114</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.231</td>
+  <td align=3Dright>0.123</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.835</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.298</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>3.234</td>
+  <td align=3Dright>0.121</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.712</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y3</td>
+  <td align=3Dright>0.234</td>
+  <td align=3Dright>0.111</td>
+  <td align=3Dright>0.277</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.431</td>
+  <td align=3Dright>1.071</td>
+  <td align=3Dright>0.812</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.128</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.471</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0.666</td>
+  <td align=3Dright>0.373</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y4</td>
+  <td align=3Dright>0.151</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.477</td>
+  <td align=3Dright>0.023</td>
+  <td align=3Dright>0.049</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0.026</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.052</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.025</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y5</td>
+  <td align=3Dright>0.446</td>
+  <td align=3Dright>0.375</td>
+  <td align=3Dright>0.298</td>
+  <td align=3Dright>0.106</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0.166</td>
+  <td align=3Dright>0.179</td>
+  <td align=3Dright>0.415</td>
+  <td align=3Dright>0.059</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.677</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y6</td>
+  <td align=3Dright>2.019</td>
+  <td align=3Dright>2.309</td>
+  <td align=3Dright>1.659</td>
+  <td align=3Dright>3.333</td>
+  <td align=3Dright>2.301</td>
+  <td align=3Dright>0.658</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.681</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.298</td>
+  <td align=3Dright>0.662</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>5.332</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>1.057</td>
+  <td align=3Dright>5.021</td>
+  <td align=3Dright>0.367</td>
+  <td align=3Dright>1.321</td>
+  <td align=3Dright>0.678</td>
+  <td align=3Dright>0.333</td>
+  <td align=3Dright>4.659</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y7</td>
+  <td align=3Dright>4.219</td>
+  <td align=3Dright>1.326</td>
+  <td align=3Dright>0.604</td>
+  <td align=3Dright>2.113</td>
+  <td align=3Dright>0.222</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.425</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.411</td>
+  <td align=3Dright>0.703</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.316</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.087</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.187</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.213</td>
+  <td align=3Dright>0.102</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.215</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y8</td>
+  <td align=3Dright>1.14</td>
+  <td align=3Dright>0.66</td>
+  <td align=3Dright>0.08</td>
+  <td align=3Dright>0.72</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.12</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.08</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0.04</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.06</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.11</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y9</td>
+  <td align=3Dright>0.703</td>
+  <td align=3Dright>0.067</td>
+  <td align=3Dright>0.068</td>
+  <td align=3Dright>1.031</td>
+  <td align=3Dright>0.067</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0.037</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y10</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.024</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.426</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.027</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.074</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P1</td>
+  <td align=3Dright>0.267</td>
+  <td align=3Dright>0.149</td>
+  <td align=3Dright>0.082</td>
+  <td align=3Dright>0.068</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.049</td>
+  <td align=3Dright>0.284</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.015</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.016</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.014</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.017</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P2</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.072</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.102</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.106</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.045</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.713</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P3</td>
+  <td align=3Dright>0.058</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0.126</td>
+  <td align=3Dright>0.111</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.413</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0.066</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.331</td>
+  <td align=3Dright>0.028</td>
+  <td align=3Dright>0.027</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.102</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.103</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.073</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P4</td>
+  <td align=3Dright>0.28</td>
+  <td align=3Dright>0.36</td>
+  <td align=3Dright>0.14</td>
+  <td align=3Dright>0.56</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.08</td>
+  <td align=3Dright>0.14</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.31</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.06</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.12</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.12</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.04</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.08</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.18</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0.04</td>
+  <td align=3Dright>0.08</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.02</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P5</td>
+  <td align=3Dright>0.411</td>
+  <td align=3Dright>0.437</td>
+  <td align=3Dright>0.312</td>
+  <td align=3Dright>0.659</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.517</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.058</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.112</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.066</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.327</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P6</td>
+  <td align=3Dright>12.601</td>
+  <td align=3Dright>1.591</td>
+  <td align=3Dright>4.612</td>
+  <td align=3Dright>1.002</td>
+  <td align=3Dright>0.409</td>
+  <td align=3Dright>0.214</td>
+  <td align=3Dright>1.021</td>
+  <td align=3Dright>0.201</td>
+  <td align=3Dright>1.003</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.211</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>1.405</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P7</td>
+  <td align=3Dright>3.851</td>
+  <td align=3Dright>0.754</td>
+  <td align=3Dright>2.451</td>
+  <td align=3Dright>0.214</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.051</td>
+  <td align=3Dright>1.827</td>
+  <td align=3Dright>0.162</td>
+  <td align=3Dright>0.471</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.152</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.705</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P8</td>
+  <td align=3Dright>5.378</td>
+  <td align=3Dright>0.605</td>
+  <td align=3Dright>1.621</td>
+  <td align=3Dright>0.406</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.912</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.091</td>
+  <td align=3Dright>1.522</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.094</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.321</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.426</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.222</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.221</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>1.214</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P9</td>
+  <td align=3Dright>0.2311</td>
+  <td align=3Dright>0.675</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.48</td>
+  <td align=3Dright>0.677</td>
+  <td align=3Dright>0.328</td>
+  <td align=3Dright>0.331</td>
+  <td align=3Dright>0.671</td>
+  <td align=3Dright>0.1333</td>
+  <td align=3Dright>0.4678</td>
+  <td align=3Dright>0.111</td>
+  <td align=3Dright>0.332</td>
+  <td align=3Dright>0.331</td>
+  <td align=3Dright>0.1673</td>
+  <td align=3Dright>0.671</td>
+  <td align=3Dright>0.989</td>
+  <td align=3Dright>0.291</td>
+  <td align=3Dright>0.299</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L1</td>
+  <td align=3Dright>0.966</td>
+  <td align=3Dright>0.331</td>
+  <td align=3Dright>0.102</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.107</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.109</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.333</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0.632</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.035</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L2</td>
+  <td align=3Dright>0.528</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.101</td>
+  <td align=3Dright>0.098</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.041</td>
+  <td align=3Dright>0.028</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.034</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L3</td>
+  <td align=3Dright>1.009</td>
+  <td align=3Dright>0.467</td>
+  <td align=3Dright>0.231</td>
+  <td align=3Dright>0.407</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.112</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.089</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L4</td>
+  <td align=3Dright>3.125</td>
+  <td align=3Dright>1.421</td>
+  <td align=3Dright>8.513</td>
+  <td align=3Dright>1.715</td>
+  <td align=3Dright>0.212</td>
+  <td align=3Dright>0.113</td>
+  <td align=3Dright>0.617</td>
+  <td align=3Dright>0.511</td>
+  <td align=3Dright>0.621</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>1.121</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.617</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.092</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.212</td>
+  <td align=3Dright>0.411</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L5</td>
+  <td align=3Dright>1.412</td>
+  <td align=3Dright>0.777</td>
+  <td align=3Dright>3.166</td>
+  <td align=3Dright>1.233</td>
+  <td align=3Dright>0.235</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.629</td>
+  <td align=3Dright>0.326</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.304</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.303</td>
+  <td align=3Dright>0.105</td>
+  <td align=3Dright>0.072</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.111</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.029</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L6</td>
+  <td align=3Dright>0.315</td>
+  <td align=3Dright>0.442</td>
+  <td align=3Dright>0.523</td>
+  <td align=3Dright>17.113</td>
+  <td align=3Dright>0.098</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.099</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.031</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.397</td>
+  <td align=3Dright>0.112</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L7</td>
+  <td align=3Dright>0.901</td>
+  <td align=3Dright>0.166</td>
+  <td align=3Dright>0.657</td>
+  <td align=3Dright>0.328</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.107</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.033</td>
+  <td align=3Dright>0.067</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.233</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.071</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0.066</td>
+  <td align=3Dright>0.035</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L8</td>
+  <td align=3Dright>0.121</td>
+  <td align=3Dright>0.1666</td>
+  <td align=3Dright>0.116</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.997</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.67</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.31</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.7347</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L9</td>
+  <td align=3Dright>1.119</td>
+  <td align=3Dright>0.268</td>
+  <td align=3Dright>0.271</td>
+  <td align=3Dright>0.808</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.071</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.107</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.107</td>
+  <td align=3Dright>0.059</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.032</td>
+  <td align=3Dright>0.132</td>
+  <td align=3Dright>0.129</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.028</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.333</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L10</td>
+  <td align=3Dright>3.201</td>
+  <td align=3Dright>1.823</td>
+  <td align=3Dright>4.202</td>
+  <td align=3Dright>3.332</td>
+  <td align=3Dright>0.708</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.099</td>
+  <td align=3Dright>0.733</td>
+  <td align=3Dright>0.105</td>
+  <td align=3Dright>2.011</td>
+  <td align=3Dright>0.212</td>
+  <td align=3Dright>0.102</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.821</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.087</td>
+  <td align=3Dright>0.221</td>
+  <td align=3Dright>0.223</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.431</td>
+  <td align=3Dright>0.114</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.092</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0.095</td>
+  <td align=3Dright>1.504</td>
+  <td align=3Dright>0.441</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+  <td align=3Dright>0</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="gb2312"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dgb2312">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../data.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/268392E1/data.files/sheet003.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../data.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3D"#0563C1" vlink=3D"#954F72">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D288 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:216pt'>
+ <col width=3D72 span=3D4 style=3D'width:54pt'>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 width=3D72 style=3D'height:14.25pt;width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'><span
+  style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>J'</td>
+  <td width=3D72 style=3D'width:54pt'>H'(loge)</td>
+  <td width=3D72 style=3D'width:54pt'>D</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y1</td>
+  <td align=3Dright>0.7495</td>
+  <td align=3Dright>1.863</td>
+  <td align=3Dright>2.248</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y2</td>
+  <td align=3Dright>0.6563</td>
+  <td align=3Dright>1.777</td>
+  <td align=3Dright>19.935</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y3</td>
+  <td align=3Dright>0.8507</td>
+  <td align=3Dright>2.245</td>
+  <td align=3Dright>4.8</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y4</td>
+  <td align=3Dright>0.7571</td>
+  <td align=3Dright>1.815</td>
+  <td align=3Dright>1.007</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y5</td>
+  <td align=3Dright>0.8873</td>
+  <td align=3Dright>2.043</td>
+  <td align=3Dright>2.752</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y6</td>
+  <td align=3Dright>0.879</td>
+  <td align=3Dright>2.49</td>
+  <td align=3Dright>32.688</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y7</td>
+  <td align=3Dright>0.7566</td>
+  <td align=3Dright>2.049</td>
+  <td align=3Dright>11.344</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y8</td>
+  <td align=3Dright>0.6867</td>
+  <td align=3Dright>1.706</td>
+  <td align=3Dright>3.07</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y9</td>
+  <td align=3Dright>0.6495</td>
+  <td align=3Dright>1.351</td>
+  <td align=3Dright>2.138</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>Y10</td>
+  <td align=3Dright>0.6084</td>
+  <td align=3Dright>0.9792</td>
+  <td align=3Dright>0.602</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P1</td>
+  <td align=3Dright>0.8073</td>
+  <td align=3Dright>2.006</td>
+  <td align=3Dright>1.044</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P2</td>
+  <td align=3Dright>0.6463</td>
+  <td align=3Dright>1.04</td>
+  <td align=3Dright>1.038</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P3</td>
+  <td align=3Dright>0.8447</td>
+  <td align=3Dright>2.229</td>
+  <td align=3Dright>1.532</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P4</td>
+  <td align=3Dright>0.8568</td>
+  <td align=3Dright>2.567</td>
+  <td align=3Dright>2.71</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P5</td>
+  <td align=3Dright>0.8535</td>
+  <td align=3Dright>2.311</td>
+  <td align=3Dright>3.363</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P6</td>
+  <td align=3Dright>0.6421</td>
+  <td align=3Dright>1.596</td>
+  <td align=3Dright>24.303</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P7</td>
+  <td align=3Dright>0.7568</td>
+  <td align=3Dright>1.743</td>
+  <td align=3Dright>10.638</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P8</td>
+  <td align=3Dright>0.7582</td>
+  <td align=3Dright>1.945</td>
+  <td align=3Dright>13.033</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>P9</td>
+  <td align=3Dright>0.9502</td>
+  <td align=3Dright>2.747</td>
+  <td align=3Dright>7.5145</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L1</td>
+  <td align=3Dright>0.7392</td>
+  <td align=3Dright>1.896</td>
+  <td align=3Dright>2.772</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L2</td>
+  <td align=3Dright>0.7464</td>
+  <td align=3Dright>1.855</td>
+  <td align=3Dright>1.117</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L3</td>
+  <td align=3Dright>0.8014</td>
+  <td align=3Dright>1.666</td>
+  <td align=3Dright>2.476</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L4</td>
+  <td align=3Dright>0.7168</td>
+  <td align=3Dright>1.892</td>
+  <td align=3Dright>19.301</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L5</td>
+  <td align=3Dright>0.7521</td>
+  <td align=3Dright>1.985</td>
+  <td align=3Dright>8.734</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L6</td>
+  <td align=3Dright>0.2344</td>
+  <td align=3Dright>0.5397</td>
+  <td align=3Dright>19.163</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L7</td>
+  <td align=3Dright>0.7966</td>
+  <td align=3Dright>2.157</td>
+  <td align=3Dright>3.028</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L8</td>
+  <td align=3Dright>0.8586</td>
+  <td align=3Dright>1.671</td>
+  <td align=3Dright>3.1153</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L9</td>
+  <td align=3Dright>0.7876</td>
+  <td align=3Dright>2.02</td>
+  <td align=3Dright>3.464</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 style=3D'height:14.25pt'>L10</td>
+  <td align=3Dright>0.7865</td>
+  <td align=3Dright>2.395</td>
+  <td align=3Dright>20.557</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+  <td width=3D72 style=3D'width:54pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01DB83AB.F60DFE00
+Content-Location: file:///C:/268392E1/data.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../data.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01DB83AB.F60DFE00--
